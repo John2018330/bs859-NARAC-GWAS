@@ -18,13 +18,13 @@ However, a more newly identified autoantibody, anti-cyclic citrullinated peptide
 Elevations of anti-CCP have been noted to predict increased risk for development of rheumatoid arthritis (Kroot et al., 2000)
 
 ## Software requirements
-- Plink 1.9
-- Plink 2.0
-- GMMAT 
-- smartpca for PCA
-- R 4.3.0
-- METAL for meta-analysis
-- LDSC python2 package for LD score regression
+- [Plink 1.9](https://www.cog-genomics.org/plink/)
+- [Plink 2.0](https://www.cog-genomics.org/plink/2.0/)
+- [GMMAT](https://github.com/hanchenphd/GMMAT) 
+- [eigensoft smartpca](https://github.com/chrchang/eigensoft/tree/master) for PCA
+- [R 4.3.0](https://www.r-project.org/)
+- [METAL](https://genome.sph.umich.edu/wiki/METAL_Documentation) for meta-analysis
+- [LDSC python2 package](https://github.com/bulik/ldsc) for LD score regression
 
 
 
